@@ -35,3 +35,12 @@ h1 {
     background-color:darkolivegreen;
     
 }
+img {
+     height: 300px; 
+   width: 300px;
+    transition: transform. 2s;
+    border: 10px solid #AAAAAA   
+}
+img:hover{
+    transform: (0.9);
+}
